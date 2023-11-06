@@ -12,10 +12,10 @@ I experimented in adding colour in order to make my images more visually pleasin
 
 I was able to recreate a number of well known fractals, such as the Sierpinski Triangle.
 
-![image](https://github.com/rosie-bradstock/chaos-game/assets/139405672/c0a2546d-d9ef-45a3-adca-ee810329581f)
+![image](https://github.com/rosie-bradstock/chaos-game/assets/139405672/20a81e6e-9cbe-4a5d-95dd-c6a3fb6e7d1c)
 
-![image](https://github.com/rosie-bradstock/chaos-game/assets/139405672/a0a1e84e-55ab-4f0c-8cb4-7b360942f132)
+![image](https://github.com/rosie-bradstock/chaos-game/assets/139405672/be343401-c84a-4b4d-9563-95885de71f57)
 
-![image](https://github.com/rosie-bradstock/chaos-game/assets/139405672/629394fa-e219-45bf-81e3-8bf2c08c6865)
+![image](https://github.com/rosie-bradstock/chaos-game/assets/139405672/f2c5fa20-e2bf-4b63-830a-a202690c4057)
 
-![image](https://github.com/rosie-bradstock/chaos-game/assets/139405672/05298861-cf3e-467d-b459-21ff0271f2a1)
+![image](https://github.com/rosie-bradstock/chaos-game/assets/139405672/abbf938c-d1e0-4a15-ab2f-39a228b7fd53)
